@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+
+console.log('this is loaded);
+
+exports.twitterKeys = {
+    consumer_key: 'lm2Da6svBNkqaa90J6nlPs8jF',
+    consumer_secret: 'VONr9fQiBtXByN7JThgp0PbxsrOr0wDNpDrtdOcD5oyoGy9Kl5',
+    access_token_key: '879462759678836738-hfQBvKZxxsba6ts2S8Bwwdzc9jszjIB',
+    access_token_secret: 'IgnDaLWkhDHz4ahGPtBHNI5gToivboeB2TMXFaF3AjSJ7'
+
+}
